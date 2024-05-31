@@ -11,12 +11,16 @@ https://cdn.002radio.com:3909/live/radio002live.m3u8
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1 tvg-id="ANTv.bo" tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="General",ANTv (720p) [Not 24/7]
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="General",Anzoátegui TV (360p)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
@@ -35,6 +39,10 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 tvg-id="B15.mx" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General",B15
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="General",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="General",Bella Asunción TV (720p) [Not 24/7]
+https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="General",Los Santos TV (720p)
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="General",Megavisión Canal 21 (720p)
@@ -43,12 +51,20 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalOchoTV.mx" tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="General",Canal Ocho TV
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="",Canal 10 Cancun
+#EXTINF:-1 tvg-id="Canal8.cr" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="General",Canal 8 (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="General",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="",Canal 10 Durango
+#EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="General",Canal 10 Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaTVDigital.do" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="General",Cana TV Digital (720p) [Not 24/7]
+https://livetv.305streamhd.com:3707/live/canatvdigitallive.m3u8
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="General",Canal 6 (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="General",Canal 6 (720p) [Not 24/7]
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13TierraCaliente.mx" tvg-logo="https://i.imgur.com/v4o9q3u.jpg" group-title="General",Canal 13 Tierra Caliente
 https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal21Chignahuapan.mx" tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="General",Canal 21 Chignahuapan
@@ -72,6 +88,8 @@ https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
 https://stream.oursnetworktv.com/latin/encoder6tecpan/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7SLP.mx" tvg-logo="https://i.imgur.com/cAxlcsR.png" group-title="General",Canal 7 SLP
 https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV (720p)
+https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Spanish
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNRTelevision.mx" tvg-logo="https://i.imgur.com/HI5GOfF.png" group-title="General",CNR Television
@@ -303,10 +321,16 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entertainment",BBC Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment",Bellavisión (1080p)
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-id="BonchesLatinosTV.do" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="Entertainment",Bonches Latinos TV (720p)
 https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entertainment",Boreal (720p)
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="Entertainment",Claro Visión TV (720p)
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-id="Canal8CCProducciones.py" tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Entertainment",Canal 8 C&C Producciones (720p)
+https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV (720p)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="DimeloTV.do" tvg-logo="https://i.imgur.com/BVsotpP.png" group-title="Entertainment",Dimelo TV (1080p)
@@ -385,6 +409,8 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy",ViX Jajaja
 https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entertainment;Movies",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Movies",Cinerama TV (480p) [Not 24/7]
@@ -395,6 +421,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movies",Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
+#EXTINF:-1 tvg-id="AfortunadasTV.es" tvg-logo="https://charlietv.000webhostapp.com/logos/de-pelicula-logo_2.png" group-title="Movies",De Pelicula (720p)
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Movies",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier
@@ -417,6 +445,10 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 https://seo.tv.bo/tv/ATV4_HD.m3u8
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="Sports",Awapa Sports TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol (720p)
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports",Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",IMPACT Wrestling
