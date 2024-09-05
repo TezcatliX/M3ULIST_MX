@@ -99,10 +99,14 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="General",ILCE Canal 15 Summa Saberes
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_Imagen_Televisi%C3%B3n_2016.png#/media/Archivo:Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="General", MX: IMAGEN TV
+http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="InfoTV9.mx" tvg-logo="https://i.imgur.com/Rgu6Hzo.png" group-title="General",Info TV 9
 https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="General;Movies",Garabito TV (720p)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="General", MX: LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="General",Lancelot TV (404p)
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="General",Mega TV (1080p)
@@ -167,6 +171,8 @@ https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
 https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLibertad.mx" tvg-logo="https://i.imgur.com/yvbhH8c.png" group-title="General",TV Libertad
 https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8
+#EXTINF:-1 group-title="General", GTO: TELEVISA DEL BAJIO
+https://ythls-v3.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="General",TV Lobo
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",TV Mar La Paz
@@ -187,6 +193,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 https://stream.oursnetworktv.com/latin/sanluistv/playlist.m3u8
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="General",Ultra TV Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tyHbITo.png" group-title="General", US: UNIVISION
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-logo="https://i.imgur.com/0W8kHxt.png" group-title="General",VB Media TV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="General",XEWH-TDT Telemax
@@ -286,10 +294,14 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 http://168.181.122.234:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids",DreikoTv (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Kids", Latino Kids TV ✪ | UY
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Kids",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="Kids",Pequeradio (720p) [Not 24/7]
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png" group-title="Animation", Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (720p)
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel (1080p)
@@ -310,8 +322,12 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
 #EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="Entertainment",Claro Visión TV (720p)
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Entertainment", MX: CANAL 5
+http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entertainment",Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLREXUV.png" group-title="Entertainment", US: CANAL 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Entertainment",Cinco TV (480p)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Entertainment",Contivision (720p)
@@ -378,6 +394,8 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-id="StarChannel" tvg-logo="https://charlietv.000webhostapp.com/logos/star-channel-logo.png" group-title="Entertainment",Star Channel
 http://31.42.185.216:8000/live/robertomartinez/MRCUsKskoh/4949.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entertainment", US: TELEMUNDO
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 tvg-id="TDtv.cr" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="Entertainment",TDtv (720p)
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Entertainment",Teleplay Sureste
@@ -488,6 +506,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionBudokan.mx" tvg-logo="https://i.imgur.com/1rfoSt8.png" group-title="Music",Radio y Television Budokan
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Music", Retro Plus TV ✪ | CL
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Music",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",Vision Television
