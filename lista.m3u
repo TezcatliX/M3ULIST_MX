@@ -11,12 +11,8 @@ https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1 tvg-id="ANTv.bo" tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="General",ANTv (720p) [Not 24/7]
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
-#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="General",Anzoátegui TV (360p)
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="AysenTV.cl" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="General",Aysen TV (720p)
@@ -63,8 +59,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13TierraCaliente.mx" tvg-logo="https://i.imgur.com/v4o9q3u.jpg" group-title="General",Canal 13 Tierra Caliente
-https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal21Chignahuapan.mx" tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="General",Canal 21 Chignahuapan
 https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal21Rioverde.mx" tvg-logo="https://i.imgur.com/22oVtx0.png" group-title="General",Canal 21 Rioverde
@@ -77,10 +71,6 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal44.mx" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="General",Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6deTamazula.mx" tvg-logo="https://i.imgur.com/OJ1nAOY.jpg" group-title="General",Canal 6 de Tamazula
-https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6Tecpan.mx" tvg-logo="https://i.imgur.com/8eBwYai.png" group-title="General",Canal 6 Tecpan
-https://stream.oursnetworktv.com/latin/encoder6tecpan/playlist.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="General",Canal 9 Barbe TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-id="CoralTV.bo" tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="General",Coral TV (480p)
@@ -97,8 +87,6 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_Imagen_Televisi%C3%B3n_2016.png#/media/Archivo:Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="General", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="InfoTV9.mx" tvg-logo="https://i.imgur.com/Rgu6Hzo.png" group-title="General",Info TV 9
-https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="General;Movies",Garabito TV (720p)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="General", MX: LAS ESTRELLAS
@@ -121,8 +109,6 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="MultimediosPuebla.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios Puebla
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="MultimediosSaltillo.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios Saltillo
@@ -135,8 +121,6 @@ https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV (720p) [Not 24/7]
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="QuieroTV.mx" tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="General",Quiero TV
-https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 #EXTINF:-1 tvg-id="RalyTV.mx" tvg-logo="https://i.imgur.com/W8a1dIa.png" group-title="General",Raly TV
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="General",RCG TV
@@ -161,10 +145,6 @@ https://tvenvivo.buap.mx/livestream/stream.m3u8
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="General",TV Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-id="TVIndependencia.mx" tvg-logo="https://i.imgur.com/kuyQvUP.png" group-title="General",TV Independencia
-https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLibertad.mx" tvg-logo="https://i.imgur.com/yvbhH8c.png" group-title="General",TV Libertad
-https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="General",TV Lobo
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",TV Mar La Paz
@@ -181,12 +161,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSanLuis.mx" tvg-logo="https://i.imgur.com/MAnenOV.jpg" group-title="General",TV San Luis
-https://stream.oursnetworktv.com/latin/sanluistv/playlist.m3u8
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="General",Ultra TV Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tyHbITo.png" group-title="General", US: UNIVISION
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-logo="https://i.imgur.com/0W8kHxt.png" group-title="General",VB Media TV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="General",XEWH-TDT Telemax
@@ -199,10 +175,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 tvg-id="XHPBZCTDT1.mx" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="General",XHPBZC-TDT1
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSDDTDT.mx" tvg-logo="https://i.imgur.com/EY0DlT0.png" group-title="General",XHSDD-TDT 15tv
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSTV.mx" tvg-logo="https://i.imgur.com/TY6ewSv.png" group-title="General",XHS-TV Canal 23
-https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 #EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="General",XHTTG-TDT Canal 44
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias
@@ -213,8 +185,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Espanol
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-logo="https://i.imgur.com/kARz7SR.png" group-title="News",Meganoticias MX
-https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Culture",Mundo geek
@@ -223,8 +193,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="News",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="News",FOX 5 New York NY (WNYW) (720p)
-https://lnc-wnyw.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="News",TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="Paralelo20650AM.mx" tvg-logo="https://i.imgur.com/9SOZ2Sh.png" group-title="News",Paralelo 20 650 AM
@@ -250,8 +218,6 @@ https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Culture;Education",XHSPR-TDT1 Canal 14
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 tvg-id="TVUJAT.mx" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Education",TV UJAT
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Education",XEIPN-TDT Once México
@@ -274,6 +240,8 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/m6twKCy.png" group-title="Kids",Boing (432p)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Animation", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network East (1080p)
 https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE Internacional (1080p)
@@ -290,12 +258,8 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Entertainment;Animation;Kids",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png" group-title="Animation", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (720p)
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel (1080p)
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="Toonami.fr" tvg-logo="https://i.imgur.com/U7qh4yF.png" group-title="Animation",Toonami (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Entertainment",13 Entretención (720p)
@@ -330,10 +294,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV (720p)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="COSMO.es" tvg-logo="https://i.imgur.com/L2KKKuB.png" group-title="Entertainment",COSMO (1080p) [Geo-blocked]
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.cl" tvg-logo="https://i2.paste.pics/ed2fce1f9fe98a5c7dec95777c201497.png" group-title="Entertainment",Cosmos TV (720p)
-https://v1.tustreaming.cl/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Corazón turco
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5f062d9-fdb9-46bc-9aff-35744350dcd4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Crímenes imperfectos
@@ -354,12 +314,8 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Entertainment",LatacungaTV (720p)
-https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Entertainment",Limón TV (1080p) [Not 24/7]
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-id="LosAltosTelevision.mx" tvg-logo="https://i.ibb.co/qYs9cPQ/Unnamed-41.jpg" group-title="Entertainment",Los Altos Television
-https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
 #EXTINF:-1 tvg-id="MasTV.co" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Entertainment",Más TV (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="Entertainment",MDA Televisión (720p)
@@ -382,14 +338,10 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 https://glb.bozztv.com/glb/ssh101/quaerearg/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="Entertainment",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Spike_TV_logo.svg/363px-Spike_TV_logo.svg.png" group-title="Entertainment",Spike Adventura (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-id="StarChannel" tvg-logo="https://charlietv.000webhostapp.com/logos/star-channel-logo.png" group-title="Entertainment",Star Channel
-http://31.42.185.216:8000/live/robertomartinez/MRCUsKskoh/4949.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entertainment", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 tvg-id="TDtv.cr" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="Entertainment",TDtv (720p)
@@ -416,8 +368,6 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Cine adrenalina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Cine Estrella (1080p)
-https://lnc-cine-estrella.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Cine ¡¡jaja!!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Cine Clásico
@@ -444,12 +394,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Movies",MovieFe (720p) [Not 24/7]
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Movies;Series",Pantalla Clásica EC (512p)
-https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies",Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="Movies",Rakuten Drama
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Movies",Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://cdn.m3u.cl/logo/288_Sicardi_TV.png" group-title="Movies", Sicardi TV | AR
@@ -464,8 +410,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CSI: NY en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285536-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe6859ac-2fe0-4cfe-aa7f-b5f343d25841
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol (720p)
-https://lnc-bein-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",IMPACT Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",IMPACT Plus! (1080p)
@@ -484,20 +428,12 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-id="LaImagendeTierraCaliente.mx" tvg-logo="https://i.ibb.co/HLyhpkR/Screenshot-20231201-163133.jpg" group-title="Music",La Imagen de Tierra Caliente
-https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
-#EXTINF:-1 tvg-id="LaLuperronaColima.mx" tvg-logo="https://i.imgur.com/hubV9nC.jpg" group-title="Music",La Luperrona Colima
-https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
-#EXTINF:-1 tvg-id="LaLuperronaOcotlan.mx" tvg-logo="https://i.imgur.com/URMA6lE.jpg" group-title="Music",La Luperrona Ocotlan
-https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
 #EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="Music",La Urban TV (1080p) [Not 24/7]
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="LaVozGruperaTV.mx" tvg-logo="https://i.imgur.com/Ku1CEeb.png" group-title="Music",La Voz Grupera TV
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMTVLatino.us" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="Music",MTV Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-#EXTINF:-1 tvg-id="RadarTV71.mx" tvg-logo="https://i.imgur.com/wn9g4PY.png" group-title="Music",Radar TV 71
-https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionBudokan.mx" tvg-logo="https://i.imgur.com/1rfoSt8.png" group-title="Music",Radio y Television Budokan
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Music", Retro Plus TV ✪ | CL
