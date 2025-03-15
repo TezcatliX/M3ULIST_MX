@@ -148,18 +148,6 @@ https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="TVUJAT.mx" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Educativo",TV UJAT
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 group-title="Cultura",DISCOVERY CHANNEL
-http://clubtv.link/marz13/phpcode/lista0.php?c=47&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cultura",DISCOVERY TURBO
-http://clubtv.link/marz13/phpcode/lista0.php?c=80&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cultura", DISCOVERY ID
-http://clubtv.link/marz13/phpcode/lista0.php?c=18&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cultura", DISCOVERY H&H
-http://clubtv.link/marz13/phpcode/lista0.php?c=46&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cultura",HISTORY CHANNEL
-http://clubtv.link/marz13/phpcode/lista0.php?c=19&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cultura",NATGEO
-http://clubtv.link/marz13/phpcode/lista0.php?c=15&token=TecnotvPlus0013&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura",Mundo geek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
 #EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Cultura",Xtrema Animal
@@ -178,16 +166,6 @@ https://live.obslivestream.com/supercanal/index.m3u8
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 #EXTINF:-1 tvg-id="BebecitoBumysusamigos.us" tvg-logo="https://i.imgur.com/bTXIYic.png" group-title="Kids",Bebecito Bum y sus amigos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
-#EXTINF:-1 tvg-shift="-3"  group-title="Kids",Cartoon Network
-http://clubtv.link/marz13/phpcode/geomex.php?c=a03k&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Kids", DISNEY CHANNEL
-http://clubtv.link/marz13/phpcode/lista0.php?c=44&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Kids", DISCOVERY KIDS
-http://clubtv.link/marz13/phpcode/lista0.php?c=45&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Kids", NICK  JR
-http://clubtv.link/marz13/phpcode/lista0.php?c=13&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Kids", DISNEY JR
-http://clubtv.link/marz13/phpcode/lista0.php?c=43&token=TecnotvPlus0013&f=.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animación",EnerGeek (720p) [Not 24/7]
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Animación", Dreiko TV
@@ -348,34 +326,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine",AMC en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
-#EXTINF:-1 group-title="Cine", UNIVERSAL CINEMA
-http://clubtv.link/marz13/phpcode/lista0.php?c=36&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", UNIVERSAL PREMIER
-http://clubtv.link/marz13/phpcode/lista0.php?c=31&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", CINEMAX
-http://clubtv.link/marz13/phpcode/lista0.php?c=49&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", HBO PLUS
-http://clubtv.link/marz13/phpcode/lista0.php?c=21&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", HBO
-http://clubtv.link/marz13/phpcode/lista0.php?c=24&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", HBO FAMILY
-http://clubtv.link/marz13/phpcode/lista0.php?c=22&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", HBO SIGNATURE
-http://clubtv.link/marz13/phpcode/lista0.php?c=20&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", HBO XTREME
-http://clubtv.link/marz13/phpcode/lista0.php?c=16&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="Cine;Series",HBO 2 East (720p)
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Cine", SPACE
-http://clubtv.link/marz13/phpcode/lista0.php?c=10&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", GOLDEN PLUS
-http://clubtv.link/marz13/phpcode/lista0.php?c=26&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", GOLDEN PREMIER
-http://clubtv.link/marz13/phpcode/lista0.php?c=25&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", CINE DINAMITA
-http://clubtv.link/marz13/phpcode/lista0.php?c=85&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine", Az Cinema
-http://clubtv.link/marz13/phpcode/lista0.php?c=89&token=TecnotvPlus0013&f=.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Cine",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Cine",Cáscara TV (1080p)
@@ -436,10 +386,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Comedia",AFV en Español (720p) [Not 24/7]
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedia", Universal Comedy
-http://clubtv.link/marz13/phpcode/lista0.php?c=34&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Comedia",Comedy Central
-http://clubtv.link/marz13/phpcode/geomex.php?c=a04a&token=TecnotvPlus0013&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedia",Comedy Central en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Cine;Series",AXN
@@ -451,36 +397,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",CSI: NY en español
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine;Series",Star Channel Central America
 https://streamer1.nexgen.bz/STAR/index.m3u8
-#EXTINF:-1 group-title="Cine;Series", FX
-http://clubtv.link/marz13/phpcode/lista0.php?c=27&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine;Series", UNIVERSAL CHANNEL
-http://clubtv.link/marz13/phpcode/lista0.php?c=38&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Cine;Series",StudioUniversal
-http://clubtv.link/marz13/phpcode/geomex.php?c=a04o&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine;Series", TNT SERIES
-http://clubtv.link/marz13/phpcode/lista0.php?c=5&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine;Series", SONY
-http://clubtv.link/marz13/phpcode/lista0.php?c=11&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Cine;Series",Warner
-http://clubtv.link/marz13/phpcode/geomex.php?c=a01f&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine;Series", PARAMOUNT CHANNEL
-http://clubtv.link/marz13/phpcode/lista0.php?c=12&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Cine;Series", LIFE TIME
-http://clubtv.link/marz13/phpcode/lista0.php?c=33&token=TecnotvPlus0013&f=.m3u8
 #EXTINF:-1 tvg-id="SeriesconN.us" tvg-logo="https://i.imgur.com/uQfzebn.png" group-title="Series",Series con Ñ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f
-#EXTINF:-1 group-title="Sports", ESPN 1 MX
-http://clubtv.link/marz13/phpcode/lista0.php?c=41&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Sports", ESPN 2 MX
-http://clubtv.link/marz13/phpcode/lista0.php?c=40&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Sports", ESPN 3 MX
-http://clubtv.link/marz13/phpcode/lista0.php?c=39&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Sports", FOX SPORTS 2 MX
-http://clubtv.link/marz13/phpcode/lista0.php?c=29&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Sports", FOX SPORTS 3 MX
-http://clubtv.link/marz13/phpcode/lista0.php?c=28&token=TecnotvPlus0013&f=.m3u8
-#EXTINF:-1 group-title="Sports", Espn plus
-http://clubtv.link/marz13/phpcode/lista0.php?c=64&token=TecnotvPlus0013&f=.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports",Bellator MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN SPORTS XTRA en español
@@ -497,8 +415,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",TNA Wrestling (1080p)
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
-#EXTINF:-1 group-title="Sports", WWE NETWORK
-http://clubtv.link/marz13/phpcode/lista0.php?c=65&token=TecnotvPlus0013&f=.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Music",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="Music",California Music Channel
